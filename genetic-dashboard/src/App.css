@@ -1,0 +1,27 @@
+.page-bg{
+  min-height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.App{
+  max-width: 900px;
+  color: #f1f1f1;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: sustem-ui, sans-serif;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid #ddd;
+
+}
+
