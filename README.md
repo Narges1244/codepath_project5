@@ -1,9 +1,10 @@
 # codepath_project5
-# Web Development Project 5 - *Name of App Here*
+# Web Development Project 5 - Genetic Dashboard
 
 Submitted by: Narges Salari
 
-This web app: Genetic dashboard 
+This web app: This dashboard explores genes located on human chromosome 7, pulled live from the Ensembl genome database. Each row represents
+one gene — its symbol, biological type, length in base pairs, and which DNA strand it's found on. 
 
 Time spent: 8 hours spent in total
 
